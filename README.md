@@ -15,6 +15,18 @@ To have a quick look to EBAnO-Express and how to use it you can check
 ## Pubblication
 If you use this work in your research or if you would like to reference this project please cite:
 
+```
+@article{Ventura2023,
+  doi = {10.1007/s10618-023-00915-x},
+  url = {https://doi.org/10.1007/s10618-023-00915-x},
+  year = {2023},
+  month = feb,
+  publisher = {Springer Science and Business Media {LLC}},
+  author = {Francesco Ventura and Salvatore Greco and Daniele Apiletti and Tania Cerquitelli},
+  title = {Explaining deep convolutional models by measuring the influence of interpretable features in image classification},
+  journal = {Data Mining and Knowledge Discovery}}
+```
+
 - [EBAnO - CodeOcean capsule](https://codeocean.com/capsule/1347940/tree/v2):
 ```
 @misc{Ventura_Apiletti_Cerquitelli_2020, 
